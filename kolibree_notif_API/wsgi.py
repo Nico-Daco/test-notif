@@ -1,5 +1,5 @@
 """
-WSGI config for pushserver project.
+WSGI config for kolibree_notif_API project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "pushserver.settings")
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "kolibree_notif_API.settings")
 
 application = get_wsgi_application()

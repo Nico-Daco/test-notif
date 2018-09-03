@@ -1,0 +1,8 @@
+/*/__pycache__/
+/*/migrations/
+/*/local_settings.*
+/*/local_settings_cp.*
+*.sqlite3
+*.swp
+*.pyc
+*.DS_store

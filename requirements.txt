@@ -1,0 +1,6 @@
+Django
+django-fcm
+ipython
+psycopg2-binary
+django-oauth-toolkit
+gunicorn
